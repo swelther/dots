@@ -1,0 +1,7 @@
+[user]
+	name = Sebastian Welther
+	email = swelther@siewert-kau.de
+[color]
+	ui = auto
+[diff]
+	external = /home/swelther/diff_meld.py
